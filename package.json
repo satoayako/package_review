@@ -1,24 +1,20 @@
 {
-  "name": "sample2",
+  "name": "sample",
   "version": "1.0.0",
-  "description": "null",
+  "description": "",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "pug": "^3.0.2",
-    "pug-cli": "github:pugjs/pug-cli#master"
+  "dependencies": {
+    "pug-cli": "^1.0.0-alpha6",
+    "pug": "^3.0.2"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/satoayako/package_review.git"
+    "url": "[]"
   },
-  "bugs": {
-    "url": "https://github.com/satoayako/package_review/issues"
-  },
-  "homepage": "https://github.com/satoayako/package_review#readme"
+  "author": "",
+  "license": "ISC"
 }
