@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "pag": "^1.0.1",
     "pug-cli": "github:pugjs/pug-cli#master"
   },
   "scripts": {
